@@ -1,4 +1,5 @@
-# InfiniteExtensionV2-Reconfiguration(无尽扩展V2——重构版)
+# InfiniteExtensionV2-Reconfiguration
+# (无尽扩展V2——重构版)
 
 ## 前置插件
 - Slimefun
