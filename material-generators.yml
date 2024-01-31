@@ -1,0 +1,51 @@
+WJDSCQ:
+  category: wujinkuozhan
+  item-name: "&e无&6尽&b锭&f生成器"
+  block-type: SKULL3c930d20d04ac9921b49a599ad99b997667034e50285a3e8e22a7a7e6f24b73e
+  item-amount: 1
+  stats:
+    energy-consumption: 240
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WJJQHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WJMG
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CJWJDYTJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: XKMG
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WJJQHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+  output:
+    tick-rate: 1
+    type: SLIMEFUN
+    id: INFINITE_INGOT
+    amount: 64

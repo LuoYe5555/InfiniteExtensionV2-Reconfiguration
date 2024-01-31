@@ -1,0 +1,46 @@
+SHDR:
+  category: wujinkuozhan
+  capacitor-name: "&e神&6话&b电容I"
+  capacitor-lore:
+  - "&b肝帝的证明I"
+  block-type: PINK_STAINED_GLASS
+  capacity: 2147483647
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITY_CAPACITOR
+      amount: 1

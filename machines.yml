@@ -1,0 +1,3106 @@
+XKWZZZJ:
+  category: wujinkuozhan
+  machine-name: '&8虚空物质制造机'
+  machine-lore:
+  - '&7能将虚空卡与虚空锭融合为虚空物质'
+  block-type: CRYING_OBSIDIAN
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: XUKK
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: VOID_QUARRY
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: XUKK
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: VOID_HARVESTER
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: INFINITE_VOID_HARVESTER
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: VOID_HARVESTER
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: XUKK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: VOID_QUARRY
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: XUKK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XUKK
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XUKWZ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TSQDGZJ:
+  category: wujinkuozhan
+  machine-name: '&6特殊&b奇点构造机'
+  machine-lore:
+  - '&7制造特殊的奇点'
+  block-type: QUARTZ_PILLAR
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XUKWZ
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: XUKK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XKQD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CJWJQD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJXKD
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: MAGNONIUM
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJXKQD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: DCK
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: DCQD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJKPJQD:
+  category: wujinkuozhan
+  machine-name: '&b无尽卡片机-&e奇点'
+  machine-lore:
+  - '&7能无限产超多奇点并且不消耗无尽卡'
+  block-type: SMOKER
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJKPJWZDWP
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJKPJJHHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: IRON_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: IRON_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: DIAMOND_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: DIAMOND_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: EMERALD_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: EMERALD_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '12':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: NETHERITE_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: NETHERITE_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '13':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COAL_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COAL_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '14':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: REDSTONE_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: REDSTONE_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '15':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LAPIS_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LAPIS_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '16':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: QUARTZ_SINGULARITY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: QUARTZ_SINGULARITY
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+WJKPJKW:
+  category: wujinkuozhan
+  machine-name: '&b无尽卡片机-&e矿物'
+  machine-lore:
+  - '&7能无限产超多矿物并且不消耗无尽卡'
+  block-type: BLAST_FURNACE
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJKPJWZDWP
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJKPJJHHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: INFINITY_COBBLE_GEN
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: COMPRESSED_COBBLESTONE_5
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '12':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '13':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '14':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '15':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+    '16':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+CZJ1:
+  category: wujinkuozhan
+  machine-name: '&b重组机&7-&eI'
+  machine-lore:
+  - '&7能将某种物质重组为另一种物质'
+  block-type: SKULL88803e55b8d2fd96ef8bf857382130f19007012d4b3218b5ab112e2935b3d6d4
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CJWJTD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: CZDXH
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CZDXL
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CZK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: WUJINCL
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: XKQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MAGMA_CREAM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: RABBIT_HIDE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ROTTEN_FLESH
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: RABBIT_FOOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: FEATHER
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COD
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PHANTOM_MEMBRANE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: STONE_BUTTON
+          amount: 1
+        '2':
+          type: VANILLA
+          id: KELP
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: SUGAR
+          amount: 5
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COAL
+          amount: 64
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: OAK_SAPLING
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DEAD_BUSH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CZJ2:
+  category: wujinkuozhan
+  machine-name: '&b重组机&7-&eII'
+  machine-lore:
+  - '&7能将某种物质重组为另一种物质'
+  block-type: SKULLcb8f07289cc6277da3ab1cf103d1776c0a077f3393e5daa88855bba5c85ab230
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WUJINCL
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_ENCHANTMENT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CZK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CZJ1
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: WJKPJWZDWP
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ADVANCED_NETHER_STAR_REACTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ADVANCED_GEO_MINER
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MAGMA_CREAM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: RABBIT_HIDE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ROTTEN_FLESH
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: RABBIT_FOOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: FEATHER
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COD
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PHANTOM_MEMBRANE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: STONE_BUTTON
+          amount: 1
+        '2':
+          type: VANILLA
+          id: KELP
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: SUGAR
+          amount: 5
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COAL
+          amount: 64
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: OAK_SAPLING
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DEAD_BUSH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SHULKER_SHELL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_FLOWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: POPPY
+          amount: 1
+        '2':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_ROSE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: IRON_NUGGET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GHAST_TEAR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: STICK
+          amount: 1
+        '2':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BLAZE_ROD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: CHEST
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ENDER_CHEST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CZJ3:
+  category: wujinkuozhan
+  machine-name: '&b重组机&7-&eIII'
+  machine-lore:
+  - '&7能将某种物质重组为另一种物质'
+  block-type: SKULL31f748a43f3b3ada04f44d5d290a8b9bf583d93e1c83ab93c60c4dec1fde1c5c
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: INFINITY_COBBLE_GEN
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: INFINITY_VIRTUAL_FARM
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: INFINITY_DUST_EXTRACTOR
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CZK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CZJ2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CJWJTD
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: INFINITY_TREE_GROWER
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: INFINITY_INGOT_FORMER
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: INFINITY_QUARRY
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MAGMA_CREAM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: RABBIT_HIDE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ROTTEN_FLESH
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: RABBIT_FOOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: FEATHER
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COD
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PHANTOM_MEMBRANE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: STONE_BUTTON
+          amount: 1
+        '2':
+          type: VANILLA
+          id: KELP
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: SUGAR
+          amount: 5
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COAL
+          amount: 64
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: OAK_SAPLING
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DEAD_BUSH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SHULKER_SHELL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_FLOWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: POPPY
+          amount: 1
+        '2':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_ROSE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: IRON_NUGGET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GHAST_TEAR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: STICK
+          amount: 1
+        '2':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BLAZE_ROD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: CHEST
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ENDER_CHEST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '17':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: GUNPOWDER
+          amount: 6
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TNT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '18':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ENDER_EYE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '19':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: WHEAT_SEEDS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHER_WART
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '20':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: PAPER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BOOK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJCZJ:
+  category: wujinkuozhan
+  machine-name: '&b无尽重组机'
+  machine-lore:
+  - '&7能将某种物质重组为另一种物质'
+  block-type: SKULL5a612316f8d69ca18184462bd64e1ddb8df99f0df6f9c9c02b4c1a41c132ad97
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJCZK
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CZJ1
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CZJ2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CZJ3
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MAGMA_CREAM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: RABBIT_HIDE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ROTTEN_FLESH
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: RABBIT_FOOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: FEATHER
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COD
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PHANTOM_MEMBRANE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: STONE_BUTTON
+          amount: 1
+        '2':
+          type: VANILLA
+          id: KELP
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SUGAR
+          amount: 5
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: HONEY_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SLIME_BALL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: COAL
+          amount: 64
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: OAK_SAPLING
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DEAD_BUSH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SCUTE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SHULKER_SHELL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_PLANT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_FLOWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: POPPY
+          amount: 1
+        '2':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: WITHER_ROSE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: VANILLA
+          id: IRON_NUGGET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GHAST_TEAR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: STICK
+          amount: 1
+        '2':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BLAZE_ROD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: CHEST
+          amount: 1
+        '2':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ENDER_CHEST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '17':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: GUNPOWDER
+          amount: 6
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TNT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '18':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: ENDER_PEARL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ENDER_EYE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '19':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WHEAT_SEEDS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHER_WART
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '20':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: PAPER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BOOK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '21':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 1
+        '2':
+          type: VANILLA
+          id: WITHER_ROSE
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJMG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '22':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 1
+        '2':
+          type: VANILLA
+          id: WITHER_ROSE
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XKMG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJDYTJ:
+  category: wujinkuozhan
+  machine-name: '&e无&a尽&b锭&d一&5体&6机'
+  machine-lore:
+  - '&7该机器可将一个铁锭转换为两个无尽锭'
+  block-type: SKULLa56e0d46e7010d4bad3e6803ffa4ed88669113a81f99499a1cce6473f1e08a3c
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: XKQD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: WJMG
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: XKMG
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJTD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: CJWJTD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CJWJDYTJ:
+  category: wujinkuozhan
+  machine-name: '&e超&a级&b无&d尽&5锭&6一&c体&9机'
+  machine-lore:
+  - '&7该机器可将一个铁锭转换为一组无尽锭'
+  block-type: SKULL3c930d20d04ac9921b49a599ad99b997667034e50285a3e8e22a7a7e6f24b73e
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: WJMG
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJDYTJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: XKMG
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+XKZWJJ:
+  category: wujinkuozhan
+  machine-name: '&b虚空转无尽机'
+  machine-lore:
+  - '&7该机器可将四个虚空锭转换为一个无尽锭'
+  block-type: CHISELED_DEEPSLATE
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: TSQDGZJ
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CJWJTD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: XKQD
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: INFINITY_REACTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: INFINITE_PANEL
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: INFINITE_VOID_HARVESTER
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: INFINITY_STORAGE
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 360
+      input:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJMGYZJ:
+  category: wujinkuozhan
+  machine-name: '&b无尽玫瑰养殖机'
+  machine-lore:
+  - '&7养殖无尽玫瑰与虚空玫瑰'
+  block-type: BEACON
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: WJMG
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJMGYL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: XKMG
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: XKQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJMG
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJMGYL
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJMG
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XKMG
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: WJMGYL
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XKMG
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJQDFZJ:
+  category: wujinkuozhan
+  machine-name: '&b无尽奇点复制机'
+  machine-lore:
+  - '&7该机器可将一个无尽奇点复制成两个'
+  block-type: WARPED_WART_BLOCK
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WUJINCL
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: WJJS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: WUJINCL
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: WJK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJKPJQD
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: WJK
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: XKQD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: CJWJQD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WJXKQD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_SINGULARITY
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_SINGULARITY
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+WJCLHCJ:
+  category: wujinkuozhan
+  machine-name: '&6无尽物品&b合成机'
+  machine-lore:
+  - '&7自动制作无尽物品'
+  block-type: RESPAWN_ANCHOR
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 24000
+    energy-buffer: 96000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: XKMG
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: INFINITY_REACTOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: WJCZK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: INFINITY_REACTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: WJMG
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WJYTHX
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 12
+        '2':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_MACHINE_CIRCUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MACHINE_CORE
+          amount: 8
+        '2':
+          type: SLIMEFUN
+          id: INFINITE_INGOT
+          amount: 12
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_MACHINE_CORE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: VOID_HARVESTER
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_VOID_HARVESTER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: SINGULARITY_CONSTRUCTOR
+          amount: 4
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_CONSTRUCTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 20
+        '2':
+          type: SLIMEFUN
+          id: ADVANCED_COBBLE_GEN
+          amount: 16
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_CONSTRUCTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: ADVANCED_VIRTUAL_FARM
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_VIRTUAL_FARM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: ADVANCED_TREE_GROWER
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_TREE_GROWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: DUST_EXTRACTOR
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_DUST_EXTRACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 2
+        '2':
+          type: SLIMEFUN
+          id: VOID_QUARRY
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_QUARRY
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: ADVANCED_NETHER_STAR_REACTOR
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITY_REACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XWD
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: VOID_PANEL
+          amount: 10
+      output:
+        '1':
+          type: SLIMEFUN
+          id: INFINITE_PANEL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
